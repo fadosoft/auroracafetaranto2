@@ -1,7 +1,7 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # Dependencies
-/node_modules
+/src/node_modules
 /.pnp
 .pnp.js
 
@@ -36,5 +36,3 @@ yarn-error.log*
 # IDE config
 .vscode/
 .idea/
-"node_modules/" 
-"node_modules/" 
