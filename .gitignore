@@ -9,7 +9,7 @@
 /coverage
 
 # Next.js build output
-/.next/
+src/.next/
 /out/
 
 # Production build
